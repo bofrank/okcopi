@@ -8,6 +8,6 @@ class Block {
     }
 
     calculateHash(){
-        
+
     }
 }
