@@ -37,4 +37,4 @@ class Blockchain{
 let boCoin = new Blockchain();
 boCoin.addBlock(new Block(1, "10/07/2017", {amount : 4}));
 boCoin.addBlock(new Block(1, "12/07/2017", {amount : 10}));
-console.log(JSON.stringify(bolCoin, null, 4));
+console.log(JSON.stringify(boCoin, null, 4));
