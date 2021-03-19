@@ -2,6 +2,7 @@
 
 This code when run outputs the following blockchain as a proof of concept:
 
+```json
 {
     "chain": [
         {
@@ -31,3 +32,4 @@ This code when run outputs the following blockchain as a proof of concept:
         }
     ]
 }
+```
